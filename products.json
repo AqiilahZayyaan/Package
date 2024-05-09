@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Brokoli - 1/2 Kg",
+    "price": 20.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 2,
+    "name": "Kembang kol - 1/2 Kg",
+    "price": 18.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 3,
+    "name": "Timun - 1/2 Kg",
+    "price": 12.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 4,
+    "name": "Buah Bit - 1/2 Kg",
+    "price": 15.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 5,
+    "name": "Wortel - 1/2 Kg",
+    "price": 7.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/carrots.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 6,
+    "name": "Tomat - 1/2 Kg",
+    "price": 3.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/tomato.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 7,
+    "name": "Kacang Panjang - 1/2 Kg",
+    "price": 7.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beans.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 8,
+    "name": "Terong - 1/2 Kg",
+    "price": 7.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/brinjal.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 9,
+    "name": "Paprika - 250 g",
+    "price": 21.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/capsicum.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 10,
+    "name": "Jamur kancing - 250 g",
+    "price": 15.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/button-mushroom.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 11,
+    "name": "Kentang - 1/2 Kg",
+    "price": 16.500,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/potato.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 12,
+    "name": "Jagung - 1/2 Kg",
+    "price": 10.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/corn.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 13,
+    "name": "Bawang Bombay - 250 g",
+    "price": 14.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/onion.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 14,
+    "name": "Apel - 1/2 Kg",
+    "price": 12.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/apple.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 15,
+    "name": "Pisang - per sisir",
+    "price": 17.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 16,
+    "name": "Anggur - 250 g",
+    "price": 24.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/grapes.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 17,
+    "name": "Mangga - 250 g",
+    "price": 11.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/mango.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 18,
+    "name": "Melon - 1 Kg",
+    "price": 36,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/musk-melon.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 19,
+    "name": "Jeruk - 1/2 Kg",
+    "price": 13.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/orange.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 20,
+    "name": "Pir - 1/2 Kg",
+    "price": 8.500,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pears.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 21,
+    "name": "Strawberry - 1/2 Kg",
+    "price": 12.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/strawberry.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 22,
+    "name": "Semangka - 1 Kg",
+    "price": 12.500,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+    "category": "fruits"
+  },
+  {
+    "id": 23,
+    "name": "kacang Almond - 250 g",
+    "price": 35.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/almonds.jpg",
+    "category": "nuts"
+  },
+  {
+    "id": 24,
+    "name": "Kacang Pistachio - 250 g",
+    "price": 55.000,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pista.jpg",
+    "category": "nuts"
+  },
+  {
+    "id": 25,
+    "name": "Kacang Mete - 250 g",
+    "price": 37.500,
+    "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/cashews.jpg",
+    "category": "nuts"
+  }
+]
